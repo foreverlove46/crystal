@@ -1,6 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS 
 #include<stdio.h>
 #include<string.h>
+//strtokº¯Êý·Ö¸î×Ö·û´®
+
 int main()
 {
 	char arr[] = "full love in jingjing";
@@ -12,3 +14,9 @@ int main()
 	}
 	return 0;
 }
+/*
+full
+love
+in
+jingjing
+*/
